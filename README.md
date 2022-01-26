@@ -1,10 +1,12 @@
 # Frontend Mentor - Launch countdown timer
 
-![Design preview for the Launch countdown timer coding challenge](./design/active-states.jpg)
+URL https://launch.alissanguyen.dev
 
-## Overview
+A demo launch countdown page with animations.
 
 ### What to expect
+
+![Design preview for the Launch countdown timer coding challenge](./design/active-states.jpg)
 
 > Users are able to:
 >
